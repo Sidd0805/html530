@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 20px;
+    align-items: center;
+    background-color: black;
+}
+ 
+.nav li .apk {
+    width: 200px;
+    height: 100px;
+}
+.nav li ul{
+    display: flex;
+    list-style-type: none;
+    font-size: larger;
+}
+.nav li ul li a{
+    text-decoration: none;
+    margin: 20px;
+    color: beige;
+}
+.loc{
+    width: 150px;
+    height: 100px;
+}

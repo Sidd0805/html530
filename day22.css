@@ -1,0 +1,30 @@
+
+#hero{
+    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/545/221/desktop-wallpaper-immagini-35-chhatrapati-shivaji-maharaj-veer-shivaji-thumbnail.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 70vh;
+    overflow: hidden;
+}
+
+
+
+
+
+#hero article{
+    position: relative;
+    top: 400px;
+    background: black rgba(0,0,0,0.7);
+}
+
+#hero article div{
+    font-size: 48px;
+    color: white;
+    background-color: rgb(42, 86, 86);
+    
+}
+
+#hero article div::after{
+
+}

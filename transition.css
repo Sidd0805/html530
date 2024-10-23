@@ -1,0 +1,31 @@
+#virat{
+    width: 300px;
+    height: 200px;
+    background-color: burlywood;
+    rotate: 45deg;
+}
+
+
+#virat:hover{
+    width: 300px;
+    height: 150px;
+    scale: -2.5;
+    transition: rotate 5s;
+    rotate: 260deg;
+}
+
+#virat1{
+    width: 300px;
+    height: 200px;
+    background-color: burlywood;
+    rotate: 45deg;
+}
+
+
+#virat1:hover{
+    width: 300px;
+    height: 200px;
+    scale: 2.5;
+    transition: rotate 5s;
+    rotate: 180deg;
+}

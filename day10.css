@@ -26,7 +26,7 @@
     margin: 20px;
     color: beige;
 }
-.loc{
-    width: 150px;
-    height: 100px;
+ .nav li .loc{
+    width: 90px;
+    height: 60px;
 }

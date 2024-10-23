@@ -1,0 +1,26 @@
+#vk{
+    width: 200px;
+    height: 300px;
+    background-color: darkslategray;
+    animation-name: vk;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes vk {
+    0%{
+        margin-left: 0px;
+        margin-top: 0px;
+        border-radius: 20px;
+        rotate: 0deg;
+    }
+
+    100%{
+        margin-left: 1500px;
+        margin-top: 0px;
+        border-radius: 50%;
+        rotate: 360deg;
+
+    }
+}
